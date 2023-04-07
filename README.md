@@ -1,3 +1,7 @@
+![사진1](https://user-images.githubusercontent.com/104435251/230516846-f6589a9c-687e-465a-bd43-f9c2bbfde358.png)
+
+x`
+
 수평선 (구분선, 수평선을 만들려면 - or * or _을 3개를 입력)
 
 ---
